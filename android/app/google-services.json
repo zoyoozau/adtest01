@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "354854228534",
+    "firebase_url": "https://adandroid01-d7cdf.firebaseio.com",
+    "project_id": "adandroid01-d7cdf",
+    "storage_bucket": "adandroid01-d7cdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354854228534:android:4069123eecf0df6699be97",
+        "android_client_info": {
+          "package_name": "com.vmood.adtest01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354854228534-2bu8gfsut9k7mv5mgb3q48f8vqa6l11f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWWsaoPaKhfRrSzQQAcUI5De8XS4gzb3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354854228534-2bu8gfsut9k7mv5mgb3q48f8vqa6l11f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
